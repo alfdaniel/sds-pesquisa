@@ -13,7 +13,7 @@ import javax.persistence.ManyToOne;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
-import com.devsuperior.dspesquisa.entities.enums.Platform;
+import com.devsuperior.dspesquisa.enums.Platform;
 
 import lombok.Data;
 
