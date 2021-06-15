@@ -25,4 +25,6 @@ public class GameResource {
 		return ResponseEntity.ok().body(list);
 	}
 	
+	
+	
 }
